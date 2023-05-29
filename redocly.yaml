@@ -1,0 +1,2 @@
+features.openapi: 
+  corsProxyUrl: https://cors.redoc.ly
